@@ -20,5 +20,5 @@ Na primeira fase temos alguns temas como os abaixo, dentro deles, vários conte�
   Agrupando Dados e Analisando por Categoria    	   
 -Estatística e Algelin em Python 
   Métodos matemáticos para Data Analytics    	   
--Atividade: Tech Challenge: Analisar os dados de uma vinicultura!
+-Atividade: Tech Challenge: Analisar os dados de uma vinicultura!  
   Ainda estou aprendendo para fazer o desafio!
