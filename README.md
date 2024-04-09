@@ -1,7 +1,7 @@
 # Aulas-FIAP
 Minha evolução na Pós graduação sobre Data Analytics na FIAP! A pós contem 5 fases, cada fase um desafio no final!
 
-# Primeira fase!
+# Primeira fase! - Primeira Fase.ipynb
 FASE 1 - DATA ANALYSIS AND EXPLORATION:
 Na primeira fase temos alguns temas como os abaixo, dentro deles, vários conteúdos para me aprofundar mais e mais nos conteúdos! São eles:
 
@@ -29,3 +29,5 @@ Na primeira fase temos alguns temas como os abaixo, dentro deles, vários conte�
 -Atividade: Tech Challenge: Analisar os dados de uma vinicultura!  
 
   Ainda estou aprendendo para fazer o desafio!
+
+
