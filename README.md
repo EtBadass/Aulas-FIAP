@@ -3,6 +3,7 @@ Minha evolução na Pós graduação sobre Data Analytics na FIAP! A pós contem
 
 # Primeira fase! - Primeira Fase.ipynb
 FASE 1 - DATA ANALYSIS AND EXPLORATION:
+
 Na primeira fase temos alguns temas como os abaixo, dentro deles, vários conteúdos para me aprofundar mais e mais nos conteúdos! São eles:
 
 -Análise exploratória de dados 
