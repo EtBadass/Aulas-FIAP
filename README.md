@@ -38,32 +38,28 @@ Na segunda fase temos temas focados mais para machine learning! São eles:
 
 -Machine Learning com Python 
 
-  Aula 1 - Bibliotecas Fundamentais e Primeiros Passos em ML    	   
-  Aula 2 - Análise Exploratória de Dados (EDA)    	   
-  Aula 3 - Feature Engineering    	   
-  Aula 4 - Avaliando o Melhor Modelo de Regressão    	   
-  Aula 5 - Limitações e os Modelos de Classificação    	   
+  Bibliotecas Fundamentais e Primeiros Passos em ML    	   
+  Análise Exploratória de Dados (EDA)    	   
+  Feature Engineering    	   
+  Avaliando o Melhor Modelo de Regressão    	   
+  Limitações e os Modelos de Classificação    	   
 
 -Machine Learning Avançado 
 
-  Aula 1 - Modelos de Classificação    	   
-  Aula 2 - KNN, SVM    	   
-  Aula 3 - Kmeans    	   
-  Aula 4 - Modelos Baseados em Árvores    	   
-  Aula 5 - Validação Cruzada e Pipeline no Sklearn    	   
-  Aula 6 - Classification Report e Métricas de Classificaçào    	   
-  Aula 7 - AUC Score e ROC Curve    
+  Modelos de Classificação    	   
+  KNN, SVM    	   
+  Kmeans    	   
+  Modelos Baseados em Árvores    	   
+  Validação Cruzada e Pipeline no Sklearn    	   
+  Classification Report e Métricas de Classificaçào    	   
+  AUC Score e ROC Curve    
   
 -Análise de Séries Temporais 
 
-  Aula 1 - O Problema de Time Series
-  
-  Aula 2 - Utilizando Datas como Índice
-  
-  Aula 3 - Bibliotecas Fundamentais em Time Series Problem 	
-  
-  Aula 4 - Análise Exploratória de Dados (EDA) 	
-  
-  Aula 5 - Modelando e Realizando o Forecasting 	
+  O Problema de Time Series 
+  Utilizando Datas como Índice
+  Bibliotecas Fundamentais em Time Series Problem 	
+  Análise Exploratória de Dados (EDA) 	
+  Modelando e Realizando o Forecasting 	
 
 -Atividade: Tech Challenge 
