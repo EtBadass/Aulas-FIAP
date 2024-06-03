@@ -29,6 +29,6 @@ Na primeira fase temos alguns temas como os abaixo, dentro deles, v√°rios conte√
   
 -Atividade: Tech Challenge: Analisar os dados de uma vinicultura!  
 
-  Ainda estou aprendendo para fazer o desafio!
+  Desafio Feito com sucesso! Colocado na Main!
 
 
