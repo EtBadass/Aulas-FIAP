@@ -57,9 +57,13 @@ Na segunda fase temos temas focados mais para machine learning! São eles:
 -Análise de Séries Temporais 
 
   O Problema de Time Series 
+  
   Utilizando Datas como Índice
+  
   Bibliotecas Fundamentais em Time Series Problem 	
+  
   Análise Exploratória de Dados (EDA) 	
+  
   Modelando e Realizando o Forecasting 	
 
 -Atividade: Tech Challenge 
